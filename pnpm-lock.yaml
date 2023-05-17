@@ -4,6 +4,7 @@ specifiers:
   '@vitejs/plugin-vue': ^4.2.1
   '@vueuse/core': ^10.1.2
   axios: ^1.4.0
+  dayjs: ^1.11.7
   element-plus: ^2.3.4
   eslint: ^8.39.0
   eslint-plugin-vue: ^9.11.0
@@ -19,6 +20,7 @@ specifiers:
 dependencies:
   '@vueuse/core': registry.npmmirror.com/@vueuse/core/10.1.2_vue@3.3.1
   axios: registry.npmmirror.com/axios/1.4.0
+  dayjs: registry.npmmirror.com/dayjs/1.11.7
   element-plus: registry.npmmirror.com/element-plus/2.3.4_vue@3.3.1
   pinia: registry.npmmirror.com/pinia/2.0.36_vue@3.3.1
   pinia-plugin-persistedstate: registry.npmmirror.com/pinia-plugin-persistedstate/3.1.0_pinia@2.0.36
