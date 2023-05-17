@@ -1,6 +1,6 @@
-# vue-rabbit
+# vue3
 
-This template should help get you started developing with Vue 3 in Vite.
+vue3+ts+pinia+element-plus+axios的电商项目
 
 ## Recommended IDE Setup
 
